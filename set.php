@@ -9,8 +9,8 @@
 require_once __DIR__ . '/vendor/autoload.php';
 
 // Add you bot's API key and name
-$bot_api_key  = 'your:bot_api_key';
-$bot_username = 'username_bot';
+$bot_api_key  = '1137194183:AAF2wRobupkhGJRcluaZyTnpEsDXcvsbxu8';
+$bot_username = 'Getme_ktm_bot';
 
 // Define the URL to your hook.php file
 $hook_url     = 'https://your-domain/path/to/hook.php';
